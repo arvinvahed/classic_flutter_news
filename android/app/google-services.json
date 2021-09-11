@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783581163265",
+    "project_id": "b-update",
+    "storage_bucket": "b-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783581163265:android:3e786ca90eebc2043c7500",
+        "android_client_info": {
+          "package_name": "com.lunarecl.bupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783581163265-2ta1ehqvkepolqsft6hl89r3ekih1kks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD1G8WgHGSkdOnllTmjWxC6irSlJdv3fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783581163265-2ta1ehqvkepolqsft6hl89r3ekih1kks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
